@@ -17,6 +17,8 @@ limitations under the License.
 #ifndef RESONANCE_AUDIO_BASE_CONSTANTS_AND_TYPES_H_
 #define RESONANCE_AUDIO_BASE_CONSTANTS_AND_TYPES_H_
 
+#define M_PI 3.1415926
+
 #include <cmath>
 #include <string>  // for size_t
 

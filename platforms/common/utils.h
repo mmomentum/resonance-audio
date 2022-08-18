@@ -17,7 +17,7 @@ limitations under the License.
 #ifndef RESONANCE_AUDIO_PLATFORM_COMMON_UTILS_H_
 #define RESONANCE_AUDIO_PLATFORM_COMMON_UTILS_H_
 
-#include "Eigen/Dense"
+#include "third_party/Eigen/Dense"
 
 namespace vraudio {
 

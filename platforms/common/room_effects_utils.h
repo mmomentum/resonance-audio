@@ -22,7 +22,7 @@ limitations under the License.
 #include "api/resonance_audio_api.h"
 #include "base/constants_and_types.h"
 #include "base/misc_math.h"
-#include "platforms/common/room_properties.h"
+#include "../platforms/common/room_properties.h"
 
 namespace vraudio {
 
